@@ -1,4 +1,4 @@
-cars = 100
+cars = 100 # assign 100 to variable cars
 space_in_a_car = 4.0
 drivers = 30
 passengers = 90
