@@ -33,3 +33,6 @@ def # define a function, def function_name(arguemnts):
 file.seek() # move to the certain byte in the file
 file.readline() # move to the certain \n in the file
 return # assign the result of the function to some variable
+.split
+sorted()
+words.pop
