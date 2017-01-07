@@ -25,6 +25,8 @@ argv # argument variable, could unpack the arguments user input and assign to ot
 open # open a file and assign it to some variable
 file.read # read the file, usually combine with print
 file.write # write contents into the file
+file.close # just like save into the computer
+file.truncate # empty the file
 os.path # the library consisting of fuctions related to the OS paths
 len # length of the string
 exists # to check whether the path is exists, return a boolean value
