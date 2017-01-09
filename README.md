@@ -9,7 +9,7 @@ Learn python the hard way
 * ex07 introduced some high-level use of formatters
 
 #### ex10
-* formatters introduction, some I don't know how to work
+* escape sequence introduction, some I don't know how to work
 * *ex10extra* a cool visual effect, but I don't know how it works right now
 
 #### ex11
@@ -27,3 +27,9 @@ Learn python the hard way
 
 #### ex17
 * copying data from one file to another
+
+#### ex20
+* define a function, `*args` in the ex18
+* read certain line in a file
+* set the position in the file
+* position changes while the reading goes
