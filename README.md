@@ -33,3 +33,8 @@ Learn python the hard way
 * read certain line in a file
 * set the position in the file
 * position changes while the reading goes
+
+#### ex35
+the 1st little game with loops and if/else
+loop could use in string, list, dict and so on
+find out a good way to judge whether the input is a number at all
